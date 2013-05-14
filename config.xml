@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "ValenciaDeluxe"
+    version   = "1.0.0">
+
+<name>Valencia Deluxe</name>
+<icon src="icono.png" gap:platform="android" gap:density="lpdi" />
+<gap:splash src="splash.png" gap:platform="android" gap:density="lpdi" />
+<gap:splash src="splash.png" gap:platform="android" gap:density="mpdi" />
+<gap:splash src="splash.png" gap:platform="android" gap:density="hpdi" />
+<gap:splash src="splash.png" gap:platform="android" gap:density="xhpdi" />
+<description>
+Escorts en Valencia
+</description>
+
+<author href="https://www.valenciadeluxe.es" email="contacto@valenciadeluxe.es">
+Valenciadeluxe
+</author>
+
+</widget>
